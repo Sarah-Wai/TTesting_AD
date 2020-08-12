@@ -18,6 +18,7 @@ namespace Team5_LUSS.Controllers
             _logger = logger;
         }
 
+
         public IActionResult Index()
         {
            // return View();
